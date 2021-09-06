@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "SwiftFortuneWheel",
+        "repositoryURL": "https://github.com/sh-khashimov/SwiftFortuneWheel.git",
+        "state": {
+          "branch": null,
+          "revision": "cc82737da867c43988352dda24d72e52651590f8",
+          "version": "1.4.0"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
